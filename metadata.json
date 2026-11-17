@@ -1,0 +1,6 @@
+{
+  "name": "Portofolio Digital Siswa",
+  "description": "Portofolio akademik dan dokumentasi karya ilmiah resmi siswa sekolah menengah atas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
